@@ -5,7 +5,7 @@ My research focuses on autonomous multi-objective decision making.
 ## PhD Plan
 
 ### Published
-1. Contextual Multi-Objective Path Planning, published at ICRA 2023
+1. Contextual Multi-Objective Path Planning, published at ICRA 2023 - [PDF](Contextual Multi-Objective Path Planning.pdf)
 2. Counterfactual Agents for Multi-Objective Behavior Space Generation, in press at ETCA 2023
 
 ### In progress
